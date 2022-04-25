@@ -1,4 +1,8 @@
-
+body{
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+    background-repeat: no-repeat;
+}
 /* 
 
     You can write your own styles here...
